@@ -1,0 +1,9 @@
+[07-Sep-2020 13:11:13 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:12:24 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:13:39 Asia/Katmandu] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:13:39 Asia/Katmandu] PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/esewa/dbconfig.php on line 9
+[07-Sep-2020 13:13:44 Asia/Katmandu] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:13:44 Asia/Katmandu] PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/esewa/dbconfig.php on line 9
+[07-Sep-2020 13:18:50 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:19:31 Asia/Katmandu] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 13:19:31 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/esewa/dbconfig.php on line 8
