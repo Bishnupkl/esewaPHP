@@ -1,4 +1,8 @@
-<?php include 'dbconfig.php'; ?>
+<?php include 'dbconfig.php'; 
+$sql="SELECT * FROM products";
+$result=mysqli_query($conn,$sql);
+// var_dump($result);
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,14 +12,27 @@
 </head>
 <body>
 	<div class="container">
-		<div class="product-wrapper">
-			<div class="card" style="width: 18rem;">
-				<img src="..." class="card-img-top" alt="...">
-				<div class="card-body">
-					<h5 class="card-title">Card title</h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-					<a href="#" class="btn btn-primary">Go somewhere</a>
-				</div>
+		<div class="pt-md-5">
+			<div class="row">	
+				<?php while ($products=mysqli_fetch_assoc($result)){ 
+					?>
+					<div class="col-md-4">
+						<div class="card" style="width: 18rem;">
+							<div class="imagecontainer" style="height: 400px">
+								<img src="image/<?php echo $products['image'] ?>" class="card-img-top" alt="..." style="width: 100%; height: 100%;">
+							</div>
+							<div class="card-body">
+								<h5 class="card-title"><?php echo $products['title'];?></h5>
+								<p class="card-text">Rs. <?php echo  $products['amount'];?></p>
+								<p class="card-text"><?php echo $products['description'];?></p>
+								<form action="checkout.php" method="post">
+									<input type="hidden" name="product_id" value="<?php echo $products['id']?>">
+									<input type="submit" name="submit" value="Buy Now" class="btn btn-success">
+								</form>
+							</div>
+						</div>
+					</div>
+				<?php } ?>
 			</div>
 		</div>
 	</div>

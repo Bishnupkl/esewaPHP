@@ -7,3 +7,115 @@
 [07-Sep-2020 13:18:50 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'esewaphp'@'localhost' (using password: YES) in /var/www/html/esewa/dbconfig.php on line 8
 [07-Sep-2020 13:19:31 Asia/Katmandu] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/esewa/dbconfig.php on line 8
 [07-Sep-2020 13:19:31 Asia/Katmandu] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/esewa/dbconfig.php on line 8
+[07-Sep-2020 18:20:19 Asia/Katmandu] PHP Parse error:  syntax error, unexpected ''POST'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/html/esewa/checkout.php on line 4
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 18:20:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:21:37 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:21:41 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:22:15 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 43
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 48
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:22:59 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 50
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 18:24:39 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 18:24:43 Asia/Katmandu] PHP Notice:  Array to string conversion in /var/www/html/esewa/checkout.php on line 12
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:14:34 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:19:10 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:34:06 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:34:12 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 42
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 45
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 46
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 47
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Undefined variable: products in /var/www/html/esewa/checkout.php on line 49
+[07-Sep-2020 21:45:43 Asia/Katmandu] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/esewa/checkout.php on line 49
